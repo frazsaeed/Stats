@@ -1,0 +1,17 @@
+1- Download and Install XAMPP at https://www.apachefriends.org/download.html
+2- Put the project folder in "C:\xampp\htdocs"
+3- Open XAMPP and start "Apache" and "MySQL"
+4- Click on admin in "mysql"
+5- In the "phpmyadmin" Click new and set the database name as "db_shop" then click create.
+6- After database creation click on "import" and choose file "db_shop.sql" from the project folder.
+7- Click go.
+8- Now the database has been created.
+9- to run the project simply search http://localhost/Website/login.php
+10- Use login details as follow:
+
+Email: qazifarazsaeed2016@gmail.com
+Password: 331965
+
+If this account isn't working you can sign up with your own details.
+
+Thanks!
